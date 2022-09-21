@@ -1,6 +1,13 @@
 # Calculadora
 Calculadora básica de soma, subtração, multiplicação, divisão e potenciação
 
+
+
+
+
+
+
+
 print('Bem vindo a calculadora')
 
 while True:
